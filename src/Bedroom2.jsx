@@ -1,6 +1,6 @@
 import './App.css';
 
-const Bedroom1 = (props) => {
+const Bedroom2 = (props) => {
   return(
     <div>
       <h2>Bedroom {props.bedNum}</h2>
@@ -8,4 +8,4 @@ const Bedroom1 = (props) => {
   )
 }
 
-export default Bedroom1
+export default Bedroom2
