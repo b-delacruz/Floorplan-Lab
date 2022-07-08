@@ -1,6 +1,6 @@
 import './App.css';
 
-const Bath1 = (props) => {
+const Bath = (props) => {
   return (
     <div>
       <h2>{props.size} Bath</h2>
@@ -8,4 +8,4 @@ const Bath1 = (props) => {
   );
 }
 
-export default Bath1
+export default Bath
